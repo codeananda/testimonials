@@ -2,7 +2,7 @@
 A collection of testimonials & LinkedIn recommendations I've received from happy clients over the last 6+ years as a freelance ML/LLM Engineer
 
 - [Upwork Profile](https://www.upwork.com/freelancers/~01153ca9fd0099730e)
-- [LinkedIn Profile](https://www.linkedin.com/in/adam-murphy-llm-engineer/)
+- [LinkedIn Profile](https://www.linkedin.com/in/adam-murphy-74471246/)
 
 ![Testimonials - Full_page_1](https://github.com/user-attachments/assets/912d2632-73a4-4175-bcc0-a88ae60aa82f)
 ![Testimonials - Full_page_2](https://github.com/user-attachments/assets/9bfdf790-fa82-4385-aeb8-de366f2e095c)
